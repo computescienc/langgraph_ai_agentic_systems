@@ -1,7 +1,11 @@
 # parallel Fully Autonomous Deep Research Agent
 
 
-<img width="1807" height="1002" alt="image" src="https://github.com/user-attachments/assets/94734122-4439-4733-bb8b-c028cf68d9ee" />
+<img width="1794" height="967" alt="image" src="https://github.com/user-attachments/assets/b58975a8-5c45-47f2-bfcd-6e30ce3b056d" />
+
+<img width="1794" height="967" alt="image" src="https://github.com/user-attachments/assets/5b5f84d4-84f5-41bc-abac-0f99439d5a02" />
+
+<img width="1794" height="967" alt="image" src="https://github.com/user-attachments/assets/3e9aed3c-4ae6-47bc-8eb4-835ca04d656e" />
 
 This system is an advanced autonomous research agent designed to perform comprehensive deep-dives into user-specified topics. Built using the LangGraph framework for workflow orchestration and Streamlit for the user interface, the application automates the entire research process from initial inquiry to final document generation.
 
