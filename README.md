@@ -35,3 +35,7 @@ Technical Features:
 
     Real-time Transparency: The UI utilizes Streamlit status containers and text-streaming to show the "thinking process" of the agent at every stage.
 
+
+
+**Feel Free to use and update as you need.**
+**Access at**: https://github.com/computescienc/langgraph_ai_agentic_systems/blob/main/parallel_workflow/research_agent.py
