@@ -1,5 +1,7 @@
 # parallel Fully Autonomous Deep Research Agent
 
+**Access at:**
+https://github.com/computescienc/langgraph_ai_agentic_systems/blob/main/parallel_workflow/research_agent.py
 
 <img width="1794" height="967" alt="image" src="https://github.com/user-attachments/assets/b58975a8-5c45-47f2-bfcd-6e30ce3b056d" />
 
